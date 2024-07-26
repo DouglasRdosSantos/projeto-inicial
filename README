@@ -1,10 +1,1 @@
-# **Jogo do número secreto**
 
-## Visão geral
-###  É um jogo desenvolvido com JavaScript, HTML e CSS. O objetivo do jogo é adivinhar o número sorteado de 1 a 40. 
-### O jogo informa ao jogador se o palpite está acima ou abaixo e também informa o número de tentativas até o acerto.
-
-## Vantagens da Versão Digital
-### Pode ser jogado a qualquer momento sem a necessidade de configurar um tabuleiro físico, o computador lida com o rastreamento das tentativas e respostas, o que simplifica o processo. 
-### O jogo também permite fornecer instruções usando comandos de áudio, em vez de apenas texto visual, em vez de mostrar somente mensagens de texto para indicar se a tentativa é maior, menor ou correta, o jogo pode usar uma voz sintetizada para comunicar essas informações.
-### Por exemplo, se você tenta adivinhar um número e ele é menor que o número secreto, o jogo pode dizer "Seu número é menor".

@@ -1,5 +1,6 @@
 let listaDeNumerosSorteados = [];
-let numeroLimite = 101;
+let numeroLimite = 100;
+let testandoRevertCommit = "testando"
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
